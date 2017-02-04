@@ -8,10 +8,10 @@ import os
 
 
 #consumer key, consumer secret, access token, access secret.
-ckey="zSVvysItsAAOrVFO1gJROryxm"
-csecret="PaBMpshMfcDd6CDCQSPTLMvZXveNz5NaXS0MWrmB3jRfokS3JW"
-atoken="850697540-ZJcAlOKgCCOCtY1QH5ka9QItkEWejLuwmcA2SyCP"
-asecret="P7gXcpw4lpCxKJhTMlrrH0I7X2DC3vf4R1nKzkOyMKmYA"
+ckey=""
+csecret=""
+atoken=""
+asecret=""
 
 
 print("FileName:")
